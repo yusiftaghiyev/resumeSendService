@@ -22,11 +22,6 @@
         "version": "v2"
       },
       {
-        "userSymbol": "AnalyticsAdmin",
-        "version": "v1beta",
-        "serviceId": "analyticsadmin"
-      },
-      {
         "userSymbol": "AnalyticsData",
         "version": "v1beta",
         "serviceId": "analyticsdata"
