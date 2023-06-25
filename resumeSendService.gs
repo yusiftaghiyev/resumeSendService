@@ -1,5 +1,5 @@
 function resumeSendService() {
-//var timestamp1 = new Date().getTime();
+//var timestamp1 = new Date().getTime(); // proqramin isleme muddetini olcuruk
 const token = 1;
 const id =''; // your google SpreeadSheet key
 const selection =SpreadsheetApp.openById(id);
