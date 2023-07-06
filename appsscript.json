@@ -21,9 +21,7 @@
         "serviceId": "adsense",
         "version": "v2"
       },
-      {
-        "userSymbol": "AnalyticsData",
-        "version": "v1beta",
+     
         "serviceId": "analyticsdata"
       },
       {
