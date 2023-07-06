@@ -21,9 +21,7 @@
         "serviceId": "adsense",
         "version": "v2"
       },
-     
-        "serviceId": "analyticsdata"
-      },
+    
       {
         "userSymbol": "DoubleClickCampaigns",
         "version": "v4",
