@@ -21,12 +21,7 @@
         "serviceId": "adsense",
         "version": "v2"
       },
-    
-      {
-        "userSymbol": "DoubleClickCampaigns",
-        "version": "v4",
-        "serviceId": "dfareporting"
-      }
+  
     ]
   },
   "webapp": {
