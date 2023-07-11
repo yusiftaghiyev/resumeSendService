@@ -1,6 +1,6 @@
 function resumeSendService() {
 //var timestamp1 = new Date().getTime(); // proqramin calisma muddetini olcuruk
-const token = 1;
+const token = 1;  //bir defede gonderilecek mail(en son gelen) sayi
 const id =''; // your google SpreeadSheet key
 const selection =SpreadsheetApp.openById(id);
 const sheet = selection.getSheetByName('id_00004');
